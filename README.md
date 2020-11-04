@@ -36,3 +36,4 @@ Along with Python notebooks we are supposed to deliver the reoprts generated fro
 The notebook exported in HTML should also be uploaded.
 
 **Note: The notebooks is well commented and self Explanatory.**
+**it was instructed that the glitch behaviour at 1 day will be counted as 1 irrespective of the server. So this means that while reporting the server(as it doesn't matter which server it was), time(the login and logout count is counted for a whole day), activity doesn't matter. So I will not be reporting these items so that the report become easy to read/interpret. The same goes for irresponsible behaviour report so the structure of these reports will be slightly different. These reports will just contain the user name and the list of dates on which the act was performed, not containing system, activity and time because it doesn't matter what time of the day or on which server the activity was performed.**
