@@ -24,3 +24,15 @@ The flow charts of all the repoting is placed inside **FlowCharts** folder in th
 
 ## Python Notebook for opening file.
 The python notebook that have the code to open the file is also attached with the name **Reading Log File**. 
+
+# Week III Deliverables.
+## Python Notebooks
+In this week we are supposed to deliver the final jupyter notebooks that have running code. The code should produce the report files.
+
+## Reports Generated.
+Along with Python notebooks we are supposed to deliver the reoprts generated from your code.
+
+## Notebook in HTML format.
+The notebook exported in HTML should also be uploaded.
+
+Note: The notebooks is well commented and self Explanatory.
