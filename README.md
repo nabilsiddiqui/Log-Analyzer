@@ -35,4 +35,4 @@ Along with Python notebooks we are supposed to deliver the reoprts generated fro
 ## Notebook in HTML format.
 The notebook exported in HTML should also be uploaded.
 
-Note: The notebooks is well commented and self Explanatory.
+**Note: The notebooks is well commented and self Explanatory.**
